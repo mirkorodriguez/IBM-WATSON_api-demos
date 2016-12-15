@@ -1,0 +1,3 @@
+*.class
+*.jar
+node_modules/

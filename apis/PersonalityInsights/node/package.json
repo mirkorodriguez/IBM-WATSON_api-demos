@@ -1,0 +1,10 @@
+{
+  "name": "watson-personalinsights-test",
+  "version": "1.0.0",
+  "description": "Using Personality Insights with Node.js",
+  "private": true,
+  "license": "Apache-2.0",
+  "dependencies": {
+    "watson-developer-cloud": "^2.11.0"
+  }
+}

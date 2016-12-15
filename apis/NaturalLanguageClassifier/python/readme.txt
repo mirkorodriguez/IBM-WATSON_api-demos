@@ -1,0 +1,7 @@
+sudo pip install --upgrade watson-developer-cloud
+
+python NaturalLanguageClassifierTrain.py
+python NaturalLanguageClassifierStatus.py
+python NaturalLanguageClassifierList.py
+python NaturalLanguageClassifierClient.py
+python NaturalLanguageClassifierDelete.py
