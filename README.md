@@ -8,4 +8,4 @@ Most of the samples are based on Watson Developer cloud web site here: https://w
 
 Readmes, how to use them in your own application can be found here:
 
-* [apis/<watson-api-folder>/<client-type-folder>/README.txt]
+* apis/[watson-api-folder]/[client-type-folder]/README.txt
