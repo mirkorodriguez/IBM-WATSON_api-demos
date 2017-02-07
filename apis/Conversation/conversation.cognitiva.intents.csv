@@ -1,0 +1,17 @@
+¿Qué es la empresa?,company_information
+¿A qué se dedica la empresa?,company_information
+Cuéntame acerca de la empresa.,company_information
+¿Cuál es el core de negocio de la empresa?,company_information
+¿Cuál es el giro de negocio de la empresa?,company_information
+¿Cuáles son los servicios que ofrece la empresa?,company_information
+¿Dónde esta ubicado la empresa?,company_location
+¿Cómo llego a la empresa?,company_location
+¿En qué distrito esta la empresa?,company_location
+¿En qué ciudad se encuentra la empresa?,company_location
+Dime la ubicación de la empresa.,company_location
+¿En qué países esta presente la empresa?,company_size
+¿Cuántos empleados tiene la empresa?,company_size
+¿Cuántos clientes tiene la empresa?,company_size
+Dime la última facturación de la empresa.,company_size
+Listame los partners que tiene la empresa.,company_size
+¿Cómo me puede ayudar la empresa?,company_information

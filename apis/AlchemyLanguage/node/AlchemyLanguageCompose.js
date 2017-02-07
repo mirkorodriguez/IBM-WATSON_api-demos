@@ -70,18 +70,18 @@ alchemy_language.concepts(parameters, function (err, response) {
 // });
 
 
-// // Entities
-// // ------------
-// var parameters = {
-//   url: 'http://www-03.ibm.com/press/us/en/pressrelease/49384.wss'
-// };
-//
-// alchemy_language.entities(parameters, function (err, response) {
-//   if (err)
-//     console.log('error:', err);
-//   else
-//     console.log(JSON.stringify(response, null, 2));
-// });
+// Entities
+// ------------
+var parameters = {
+  url: 'http://www-03.ibm.com/press/us/en/pressrelease/49384.wss'
+};
+
+alchemy_language.entities(parameters, function (err, response) {
+  if (err)
+    console.log('error:', err);
+  else
+    console.log(JSON.stringify(response, null, 2));
+});
 
 
 // // Feed Detection
