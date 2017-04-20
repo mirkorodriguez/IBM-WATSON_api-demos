@@ -1,0 +1,18 @@
+{
+  "text": "Cuando el puente Solidaridad cayó sobre el río Rímac, luego de seis años y medio de haber sido inaugurado, la Unidad de Investigación de El Comercio reveló que fue construido por una empresa sin experiencia y que, según entendidos en contrataciones públicas, la licitación habría sido direccionada. Ahora otras indagaciones permiten revelar más irregularidades, esta vez, vinculadas al desempeño del ingeniero contratado para supervisar la construcción, Víctor Sánchez Moya. Este profesional aceptó que la Empresa Municipal Administradora de Peaje de Lima (Emape) le pagó a pesar de que no supervisó la obra en el campo.",
+  "features": {
+    "entities": {
+      "emotion": true,
+      "sentiment": true,
+      "limit": 2
+    },
+    "keywords": {
+      "emotion": true,
+      "sentiment": true,
+      "limit": 2
+    },
+    "sentiment": {},
+    "concepts": {}
+  },
+  "language": "es"
+}
