@@ -1,0 +1,14 @@
+{
+  "name": "stt",
+  "version": "1.0.0",
+  "description": "Client service to call Speech to Text API from IBM Watson.",
+  "main": "callServiceSTT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirko J. Rodríguez",
+  "license": "ISC",
+  "dependencies": {
+    "watson-developer-cloud": "^2.29.0"
+  }
+}
