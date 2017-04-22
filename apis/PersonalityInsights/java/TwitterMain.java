@@ -27,7 +27,7 @@ public class TwitterMain {
   private static final String ACCESS_TOKEN_SECRET = "J9IrvQPM7cCgbdTBja52ZMZ5eDBJKxvyUxyiWnV0OKjAA";
 
   //  How many tweets to retrieve
-  private static final int TWEETS_TO_RETRIEVE = 100;
+  private static final int TWEETS_TO_RETRIEVE = 50;
 
   public static void main(String[] args) {
 

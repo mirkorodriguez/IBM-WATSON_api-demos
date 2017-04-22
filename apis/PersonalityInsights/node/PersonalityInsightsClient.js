@@ -4,8 +4,8 @@ var PersonalityInsights = require('watson-developer-cloud/personality-insights/v
 var fs = require('fs');
 
 var personality_insights = new PersonalityInsights({
-  username: '842a005c-8baa-4e4e-a2f2-a915e89fd185',
-  password: 'zLSpcxCsfAqk',
+  username: '7f9c91e2-8117-42aa-b1a9-c1ea8e089f04',
+  password: 'tsmuEklCNZ4c',
   version_date: '2016-10-19'
 });
 

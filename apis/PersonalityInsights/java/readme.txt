@@ -11,8 +11,7 @@ http://repo1.maven.org/maven2/com/ibm/watson/developer_cloud/java-sdk/3.5.1/java
 javac -cp ".:lib/java-sdk-3.5.1-jar-with-dependencies.jar" PersonalityInsightsClient.java
 java -cp ".:lib/java-sdk-3.5.1-jar-with-dependencies.jar" PersonalityInsightsClient
 --------------------------------------------------------------------------------
-javac -cp ".:lib/*" PersonalityInsightsTwitterClient.java
-java -cp ".:lib/*" PersonalityInsightsTwitterClient @BillGates
+
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -25,5 +24,8 @@ http://twitter4j.org/en/index.html
      <version>[4.0,)</version>
  </dependency>
 
-javac -cp ".:lib/twitter4j-core-4.0.4.jar" TwitterMain.java
-java -cp ".:lib/twitter4j-core-4.0.4.jar" TwitterMain @BillGates
+javac -cp ".:lib/*" TwitterMain.java
+java -cp ".:lib/*" TwitterMain @BillGates
+
+javac -cp ".:lib/*" PersonalityInsightsTwitterClient.java
+java -cp ".:lib/*" PersonalityInsightsTwitterClient @BillGates

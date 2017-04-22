@@ -19,8 +19,8 @@ public class PersonalityInsightsTwitterClient {
     System.out.println("User to analyze: " + userTwitterAccount);
 
     //API cedentials
-    String userName="842a005c-8baa-4e4e-a2f2-a915e89fd185";
-    String passWord="zLSpcxCsfAqk";
+    String userName="7f9c91e2-8117-42aa-b1a9-c1ea8e089f04";
+    String passWord="tsmuEklCNZ4c";
     PersonalityInsights service = new PersonalityInsights("2016-10-20");
     service.setUsernameAndPassword(userName, passWord);
 
