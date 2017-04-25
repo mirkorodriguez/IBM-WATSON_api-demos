@@ -26,7 +26,7 @@ function processResponse(err, response) {
   // Display the output from dialog, if any.
   if (response.output.text.length != 0) {
       // console.log(" Output: " + JSON.stringify(response));
-      console.log(response.output.text[0]);
+      console.log(response.output.text[0]  + "\n");
   }
 
   // If we're not done, prompt for the next round of input.
