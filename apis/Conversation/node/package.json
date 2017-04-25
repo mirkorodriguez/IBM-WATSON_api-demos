@@ -1,0 +1,16 @@
+{
+  "name": "conversation",
+  "version": "1.0.0",
+  "description": "Node client for Conversation API.",
+  "main": "conversation-node-client.js",
+  "dependencies": {
+    "prompt-sync": "^4.1.4",
+    "watson-developer-cloud": "^2.29.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirko J. Rodríguez",
+  "license": "ISC"
+}
