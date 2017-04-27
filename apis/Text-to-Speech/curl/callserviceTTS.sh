@@ -43,7 +43,7 @@ La guerra es de vital importancia para el Estado; es el dominio de la vida o de 
 "https://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?voice=es-ES_EnriqueVoice"
 
 
-curl -X POST -u "82eed693-2595-4b51-9e7d-e126ae37a214":"U6SXETFzMW3x" \
+curl -X POST -u "fa51a9fd-2fd9-4bb3-8f96-ed63678e9338":"fBEgtEydZCiK" \
 --header "Content-Type: application/json" \
 --header "Accept: audio/wav" \
 --data "{\"text\":\"<p><s>He sido seleccionado para manejar su orden<break time='500ms'/>. \
