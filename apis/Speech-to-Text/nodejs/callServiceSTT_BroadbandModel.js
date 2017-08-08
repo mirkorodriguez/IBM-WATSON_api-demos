@@ -5,8 +5,8 @@ var SpeechToTextV1 = require('watson-developer-cloud/speech-to-text/v1');
 var fs = require('fs');
 
 var speech_to_text = new SpeechToTextV1 ({
-  username: '5c488cfd-d8b6-4a03-b8e0-e263736d0ce5',
-  password: 'jxwLcSnSiVBy'
+  username: '6fdc3be5-ff02-4fc7-a071-4c602dfbd9d0',
+  password: '6UDGmNqKySUz'
 });
 
 var params = {
@@ -26,6 +26,7 @@ var recognizeStream = speech_to_text.createRecognizeStream(params);
 
 // Pipe in the audio.
 fs.createReadStream('../audio/holaybienvenidos.wav').pipe(recognizeStream);
+// fs.createReadStream('../audio/tc_recordingaudio.wav').pipe(recognizeStream);
 
 // Pipe out the transcription to a file.
 recognizeStream.pipe(fs.createWriteStream('transcription.txt'));
