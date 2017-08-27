@@ -1,4 +1,5 @@
 http://repo1.maven.org/maven2/com/ibm/watson/developer_cloud/java-sdk/3.5.1/java-sdk-3.5.1-jar-with-dependencies.jar
+http://repo1.maven.org/maven2/com/ibm/watson/developer_cloud/java-sdk/3.8.0/java-sdk-3.8.0-jar-with-dependencies.jar
 
 <dependency>
     <groupId>com.ibm.watson.developer_cloud</groupId>
