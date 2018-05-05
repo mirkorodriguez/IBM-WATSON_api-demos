@@ -10,7 +10,7 @@ public class ClasificarImagenes {
 		service.setEndPoint("https://raw.githubusercontent.com/mirkorodriguez/ibm-watson/master/apis/VisualRecognition/resources/images/canasta_de_frutas.jpg");
 		service.setApiKey("your_api_key_here");
 
-		String imageURL = new String("");
+		String imageURL = new String("https://raw.githubusercontent.com/mirkorodriguez/ibm-watson/master/apis/VisualRecognition/resources/images/canasta_de_frutas.jpg");
 
 		ClassifyImagesOptions options = new ClassifyImagesOptions.Builder().url(imageURL).build();
 
