@@ -1,0 +1,3 @@
+https://github.com/watson-developer-cloud/node-red-labs/tree/master/advanced_examples/visual_recognition_training
+https://github.com/watson-developer-cloud/node-red-labs/tree/master/advanced_examples/visual_recognition_file_send
+https://github.com/watson-developer-cloud/node-red-labs/tree/master/basic_examples/visual_recognition

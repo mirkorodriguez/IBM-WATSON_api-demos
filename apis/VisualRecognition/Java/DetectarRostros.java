@@ -10,7 +10,7 @@ public class DetectarRostros {
 		service.setEndPoint("https://gateway-a.watsonplatform.net/visual-recognition/api");
 		service.setApiKey("303f9c7137446134cfef266505052e8016c50cb7");
 
-		String imageURL = new String("https://raw.githubusercontent.com/watson-developer-cloud/doc-tutorial-downloads/master/visual-recognition/prez.jpg");
+		String imageURL = new String("https://raw.githubusercontent.com/mirkorodriguez/ibm-watson/master/apis/VisualRecognition/resources/images/obama.jpg");
 
 		VisualRecognitionOptions options = new VisualRecognitionOptions.Builder().url(imageURL).build();
 
