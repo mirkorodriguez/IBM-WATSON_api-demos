@@ -7,7 +7,7 @@ public class ClasificarImagenes {
 	public static void main(String[] args) {
 
 		VisualRecognition service = new VisualRecognition(VisualRecognition.VERSION_DATE_2016_05_20);
-		service.setEndPoint("https://raw.githubusercontent.com/mirkorodriguez/ibm-watson/master/apis/VisualRecognition/resources/images/canasta_de_frutas.jpg");
+		service.setEndPoint("https://gateway-a.watsonplatform.net/visual-recognition/api");
 		service.setApiKey("your_api_key_here");
 
 		String imageURL = new String("https://raw.githubusercontent.com/mirkorodriguez/ibm-watson/master/apis/VisualRecognition/resources/images/canasta_de_frutas.jpg");
