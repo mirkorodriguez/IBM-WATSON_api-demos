@@ -20,3 +20,15 @@ java -cp ".:lib/java-sdk-3.5.1-jar-with-dependencies.jar" NaturalLanguageClassif
 javac -cp ".:lib/java-sdk-3.5.1-jar-with-dependencies.jar" NaturalLanguageClassifierDelete.java
 java -cp ".:lib/java-sdk-3.5.1-jar-with-dependencies.jar" NaturalLanguageClassifierDelete
 -------------------------------------------------------------------------------------------------------
+
+
+IAM:
+----
+<dependencies>
+  <!-- https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/java-sdk -->
+  <dependency>
+    <groupId>com.ibm.watson.developer_cloud</groupId>
+    <artifactId>java-sdk</artifactId>
+    <version>6.14.2</version>
+  </dependency>
+</dependencies>
