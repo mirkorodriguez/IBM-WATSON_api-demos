@@ -9,14 +9,14 @@ public class NaturalLanguageClassifierClientIAM {
 
     //API cedentials
     IamOptions options = new IamOptions.Builder()
-    .apiKey("6Bszn_AxqftjHODDHkfDLfyggwxz06aglO-1CHBsDVql")
+    .apiKey("wertytrychghfgh")
     .build();
 
     NaturalLanguageClassifier naturalLanguageClassifier = new NaturalLanguageClassifier(options);
     naturalLanguageClassifier.setEndPoint("https://gateway.watsonplatform.net/natural-language-classifier/api");
 
     ClassifyOptions classifyOptions = new ClassifyOptions.Builder()
-    .classifierId("773d84x567-nlc-915")
+    .classifierId("asftrertert")
     .text("Presentacion del trabajo final")
     .build();
 
