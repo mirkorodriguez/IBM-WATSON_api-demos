@@ -1,0 +1,20 @@
+Estoy llamando porque me han cobrado doble en mi factura de este mes,INTENT_FACTURACION
+Estoy molesto porque la factura no corresponde a mi plan contratado,INTENT_FACTURACION
+Aparentemente mi recibo tiene un monto demasiado elevado,INTENT_FACTURACION
+Mi recibo no esta listo y necesito pagar cuanto antes,INTENT_FACTURACION
+Me llegó un recibo de pago que no corresponde a mi domicilio,INTENT_FACTURACION
+No debería tener un monto a pagar en este ciclo de facturación y me estan cobrando de más,INTENT_FACTURACION
+A pesar de realizar el pago a tiempo aparezco como moroso,INTENT_FACTURACION
+Por qué me notificaron como deudor si he pago todo y estoy al día en mis pagos?,INTENT_FACTURACION
+La facturación de este mes me está viviendo un monto duplicado,INTENT_FACTURACION
+Quiero que me expliquen por qué me cobran una llamada que nunca realicé,INTENT_FACTURACION
+Llamo para solicitar que me corten mi servicio,INTENT_CORTE_LINEA
+Quiero que me corten el servicio,INTENT_CORTE_LINEA
+Quiero que me cancelen mi línea porque dan un mal servicio,INTENT_CORTE_LINEA
+Deseo cancelar todos mis servicios,INTENT_CORTE_LINEA
+Cancelen y den de baja a todos mis numeros,INTENT_CORTE_LINEA
+Me han clonado la línea y quiero que me anulen mi línea,INTENT_CORTE_LINEA
+Por favor anulen mis numeros porque quiero cancelarlos,INTENT_CORTE_LINEA
+He solicitado anulación de mis servicios pero siguen activos,INTENT_CORTE_LINEA
+Solicito información acerca de la cancelación de mis servicios,INTENT_CORTE_LINEA
+Anulen mis números telefónicos y celulares,INTENT_CORTE_LINEA
